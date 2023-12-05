@@ -1,1 +1,3 @@
-# Machine_Learning_Engineering_for_Production_MLOps_Specialization
+# Machine Learning Engineering for Production (MLOps) Specialization
+
+This repo has the solution for Machine Learning Engineering for Production (MLOps) Specialization offered by DeepLearning.AI in Coursera.
